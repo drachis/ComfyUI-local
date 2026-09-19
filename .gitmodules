@@ -1,0 +1,3 @@
+[submodule "custom_nodes/local_nodes"]
+	path = custom_nodes/local_nodes
+	url = O:/AI/ComfyUI-local-nodes
